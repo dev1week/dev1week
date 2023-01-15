@@ -16,7 +16,7 @@
 </table>
 
 # PRJ ✨
-<table style="align: center">
+<table align="center">
   <tr>
     <th>Title</th>
     <th>tech</th>

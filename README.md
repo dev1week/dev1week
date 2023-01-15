@@ -1,6 +1,7 @@
 # Hi ✨
 
 <h1 align="center">Tech Stack ✨</h1>
+  <br>
 <table align="center">
   <tr>
     <th>BE</th>
@@ -15,6 +16,7 @@
 </table>
 
 <h1 align="center">PRJ ✨</h1>
+  <br>
 <table align="center">
   <tr>
     <th>Title</th>

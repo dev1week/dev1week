@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=1Week%20&fontSize=90)
 
 # Tech Stack ✨
-<table>
+<table style="text-align: center">
   <tr>
     <th>BE</th>
     <th>FE</th>

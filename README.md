@@ -16,10 +16,6 @@
 </table>
 
 
-
-![dev1week's github stats](https://github-readme-stats.vercel.app/api?username=dev1week&show_icons=true)
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860)](https://solved.ac/rondo2860/)
 
 <!--

@@ -1,5 +1,5 @@
 
-<h1 align="center">Tech Stack ✨</h1>
+<h1 align="center">Tech Stack </h1>
   <br>
 <table align="center">
   <tr>
@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-<h1 align="center">PRJ ✨</h1>
+<h1 align="center">PRJ </h1>
   <br>
 <table align="center">
   <tr>
@@ -33,7 +33,7 @@
     <td><a href="">link</a></td>
   </tr>
 </table>
-<h1 align="center"> Bedge ✨</h1>
+<h1 align="center"> Bedge </h1>
   <br> 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860" align="center" >

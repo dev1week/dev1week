@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=#F6BB43&height=300&section=header&text=1Week%20&fontSize=70" align="center" >
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=F6BB43&height=300&section=header&text=1Week%20&fontSize=70" align="center" >
 </p>
 
 <h1 align="center">Tech Stack </h1>

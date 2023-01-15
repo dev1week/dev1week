@@ -1,4 +1,3 @@
-# Hi ✨
 
 <h1 align="center">Tech Stack ✨</h1>
   <br>

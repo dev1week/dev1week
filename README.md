@@ -49,15 +49,15 @@
 <p align="center">
 
 
-🎓 Major in Electronic IT Media, Seoul National Universiry Of Sicence and Technokogy (2017.02 ~ 2023.02)
+🎓 Major in Electronic IT Media, Seoul National Universiry Of Sicence and Technology (2017.02 ~ 2023.02)
 
 
 
-💻 SNUST Lab(Smart Media Network Lab) Intern (2021.03 ~ 2022.08)
+💻 SNUST Lab (Smart Media Network Lab) Intern (2021.03 ~ 2022.08)
 
 
 
-💻 KIST(Korea Institute of Science and Technology) Intern (2022.09 ~ 2023.02)
+💻 KIST (Korea Institute of Science and Technology) Intern (2022.09 ~ 2023.02)
 
 
 

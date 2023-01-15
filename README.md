@@ -19,15 +19,6 @@
   </tr>
 </table>
 
-<h1 align="center">Experience </h1>
-<div>
-🎓 Major in Electronic IT Media, Seoul National Universiry Of Sicence and Technokogy (2017.02 ~ 2023.02)
-<br>
-💻 SNUST Lab(SmartMediaNetworkLab) Intern (2021.03 ~ 2022.08)
-<br>  
-💻 KIST(Korea Institute of Science and Technology) Intern (2022.09 ~ 2023.02)
-</ div>
-
 
 <h1 align="center">PRJ </h1>
   <br>
@@ -53,6 +44,16 @@
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860" align="center" >
 </p>
+
+
+<h1 align="center">Experience </h1>
+<div>
+🎓 Major in Electronic IT Media, Seoul National Universiry Of Sicence and Technokogy (2017.02 ~ 2023.02)
+<br>
+💻 SNUST Lab(SmartMediaNetworkLab) Intern (2021.03 ~ 2022.08)
+<br>  
+💻 KIST(Korea Institute of Science and Technology) Intern (2022.09 ~ 2023.02)
+</ div>
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=1Week%20&fontSize=90)

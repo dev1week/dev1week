@@ -38,12 +38,6 @@
     <td><a href="">link</a></td>
   </tr>
 </table>
-<h1 align="center"> Bedge </h1>
-  <br> 
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860" align="center" >
-</p>
-
 
 <h1 align="center">Experience </h1>
 <p align="center">
@@ -63,6 +57,14 @@
 
 🏅2022 동계 한국방송미디어공학회 대학생 논문/캡스톤디자인 경진대회 최우수상 (2022.11.19)
   </p>
+<h1 align="center"> Bedge </h1>
+  <br> 
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860" align="center" >
+</p>
+
+
+
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=1Week%20&fontSize=90)

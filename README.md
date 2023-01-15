@@ -24,7 +24,7 @@
 <table align="center">
   <tr>
     <th>Title</th>
-    <th>tech</th>
+    <th>Skill</th>
     <th>Link</th>
   </tr>
   <tr>

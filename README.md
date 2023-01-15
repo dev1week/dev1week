@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=F6BB43&height=300&section=header&text=%20&fontSize=40" align="center" >
 </p>
-<h1 align="left">Tech Stack </h1>
+<h2 align="left">Tech Stack </h2>
   <br>
 <table align="center">
   <tr>
@@ -19,7 +19,7 @@
 </table>
 
 
-<h1 align="left">PRJ </h1>
+<h2 align="left">PRJ </h2>
   <br>
 <table align="center">
   <tr>
@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-<h1 align="left">Experience </h1>
+<h2 align="left">Experience </h2>
 <p align="center">
 
 

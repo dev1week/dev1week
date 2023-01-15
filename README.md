@@ -1,7 +1,7 @@
 
   <br> 
 <p align="center">
-  <img src="[http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=1Week%20&fontSize=70)" align="center" >
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=1Week%20&fontSize=70" align="center" >
 </p>
 
 <h1 align="center">Tech Stack </h1>

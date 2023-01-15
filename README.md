@@ -33,9 +33,9 @@
     <td><a href="">link</a></td>
   </tr>
 </table>
-
+<div style="text-align : center;">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860" align="center" >
-
+</div>
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=1Week%20&fontSize=90)

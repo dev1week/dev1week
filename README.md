@@ -14,7 +14,7 @@
     <td><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=round&logo=PyTorch&logoColor=#EE4C2C"/></a></td>
   </tr>
 </table>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860">
+
 # PRJ ✨
 <table align="center">
   <tr>
@@ -34,6 +34,7 @@
   </tr>
 </table>
 <div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860)](https://solved.ac/rondo2860/)
 </div>
 <!--

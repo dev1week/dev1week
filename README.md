@@ -33,6 +33,9 @@
     <td><a href="">link</a></td>
   </tr>
 </table>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860" align="center" >
+</p>
 <div style="text-align : center;">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860" align="center" >
 </div>

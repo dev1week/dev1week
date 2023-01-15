@@ -13,25 +13,7 @@
     <td><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-FFFFFF?style=round&logo=React&logoColor=#61DAFB"/></a></td>
     <td><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=round&logo=PyTorch&logoColor=#EE4C2C"/></a></td>
   </tr>
-  <tr>
-    <td>내용</td>
-    <td>내용</td>
-    <td>내용</td>
-  </tr>
 </table>
-## Laguage 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-FFFFFF?style=round&logo=Python&logoColor=#3776AB"/></a>
-
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=round&logo=JavaScript&logoColor=#F7DF1E"/></a>
-
-## BE 
-
-
-
-## FE 
-
-
-## ML/DL
 
 
 

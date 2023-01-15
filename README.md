@@ -2,7 +2,7 @@
 
 
 # Tech Stack ✨
-<table style="text-align: center">
+<table align="center">
   <tr>
     <th>BE</th>
     <th>FE</th>

@@ -33,6 +33,8 @@
     <td><a href="">link</a></td>
   </tr>
 </table>
+<h1 align="center"> Bedge ✨</h1>
+  <br> 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860" align="center" >
 </p>

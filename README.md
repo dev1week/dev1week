@@ -1,6 +1,6 @@
 # Hi ✨
 
-<h1>Tech Stack ✨</h1>
+<h1 align="center">Tech Stack ✨</h1>
 <table align="center">
   <tr>
     <th>BE</th>

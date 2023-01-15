@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-<h1>PRJ ✨</h1>
+<h1 align="center">PRJ ✨</h1>
 <table align="center">
   <tr>
     <th>Title</th>

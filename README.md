@@ -33,8 +33,8 @@
     <td><a href="">link</a></td>
   </tr>
 </table>
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860">
+<div >
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860" align="center" >
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860)](https://solved.ac/rondo2860/)
 </div>
 <!--

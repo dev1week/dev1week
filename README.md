@@ -46,7 +46,7 @@
 
 
 <h1 align="center">Experience </h1>
-
+<br>
 🎓 Major in Electronic IT Media, Seoul National Universiry Of Sicence and Technokogy (2017.02 ~ 2023.02)
 <br>
 💻 SNUST Lab(Smart Media Network Lab) Intern (2021.03 ~ 2022.08)
@@ -54,7 +54,6 @@
 💻 KIST(Korea Institute of Science and Technology) Intern (2022.09 ~ 2023.02)
 <br>  
 🏅2023 동계 한국방송미디어공학회 대학생 논문/캡스톤디자인 경진대회 최우수상
-
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=1Week%20&fontSize=90)

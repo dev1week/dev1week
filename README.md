@@ -33,8 +33,8 @@
     <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11174612">Published Paper</a></td></td>
   </tr>
     <tr>
-    <td>문서 인식 API</td>
-    <td><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/></td>
+    <td>필기 인식 API</td>
+    <td><a href="/api" target="_blank"><img src="https://img.shields.io/badge/Spring-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/></td>
     <td><a href="">link</a></td>
   </tr>
 </table>

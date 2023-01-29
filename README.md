@@ -47,7 +47,7 @@
 
 
 
-💻 SNUST Lab (Smart Media Network Lab)                               Intern (2021.03 ~ 2022.08)
+💻 SNUST Lab (Smart Media Network Lab)                               Alumini (2021.03 ~ 2022.08)
 
 
 

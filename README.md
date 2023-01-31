@@ -32,6 +32,8 @@
     <td><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Flask-FFFFFF?style=round&logo=Flask&logoColor=#6DB33F"/></td>
     <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11174612">Published Paper</a>
        <a href="https://youtu.be/CiVYW3YNvvc">Demo</a>
+             <a href="https://youtu.be/f_eCt-ln6Y8">Demo</a>
+      
     <a href="https://youtu.be/uqesLkDFXbI">Demo</a>
     </td></td>
   </tr>

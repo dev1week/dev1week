@@ -13,8 +13,6 @@
   </tr>
   <tr>
     <td><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/></a></td>
-    <td><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-FFFFFF?style=round&logo=React&logoColor=#61DAFB"/></a></td>
-    <td><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=round&logo=PyTorch&logoColor=#EE4C2C"/></a></td>
   </tr>
 </table>
 

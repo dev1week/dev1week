@@ -8,8 +8,6 @@
 <table align="center">
   <tr>
     <th>BE</th>
-    <th>FE</th>
-    <th>ML/DL</th>
   </tr>
   <tr>
     <td><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/></a></td>

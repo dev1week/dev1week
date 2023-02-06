@@ -46,7 +46,7 @@
 
 
 
-💻 KIST (Korea Institute of Science and Technology / AI & Robot Lab) Intern (2022.09 ~ 2023.02)
+💻 KIST (Korea Institute of Science and Technology / AI & Robot Lab) Intern (2022.09.03 ~ 2023.02.19)
 
 
 

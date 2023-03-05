@@ -10,7 +10,7 @@
     <th>BE</th>
   </tr>
   <tr>
-    <td><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/></a></td>
+    <td><a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/></a></td>
   </tr>
 </table>
 
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>Finger Gesture와 Voice Recognition을 활용한 IoT 통합 제어 웹 플랫폼</td>
-    <td><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Flask-FFFFFF?style=round&logo=Flask&logoColor=#6DB33F"/></td>
+    <td><a href="" target="_blank"><img src="https://img.shields.io/badge/Flask-FFFFFF?style=round&logo=Flask&logoColor=#6DB33F"/></td>
     <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11174612">Published Paper</a></td>
   </tr>
     <tr>

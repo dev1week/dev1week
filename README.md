@@ -31,7 +31,7 @@
     <tr>
     <td>영수증 이미지 -> 가계부 앱</td>
     <td><a href="/api1111" target="_blank"><img src="https://img.shields.io/badge/Spring-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/>
-      <img src="https://img.shields.io/badge/Spring-FFFFFF?style=round&logo=React&logoColor=#6DB33F"/></td>
+      <img src="https://img.shields.io/badge/React-FFFFFF?style=round&logo=React&logoColor=#6DB33F"/></td>
   </tr>
 </table>
 

@@ -27,7 +27,7 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>Finger Gesture와 Voice Recognition을 활용한 IoT 통합 제어 웹 플랫폼</td>
+    <td>Finger Gesture와 Voice Recognition을 활용한 IoT 통합 제어 웹  플랫폼</td>
     <td><a href="" target="_blank11"><img src="https://img.shields.io/badge/Flask-FFFFFF?style=round&logo=Flask&logoColor=#6DB33F"/></td>
     <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11174612">Published Paper </a></td>
   </tr>

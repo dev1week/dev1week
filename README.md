@@ -55,13 +55,15 @@
 
 
 
+💻 SSAFY (Samsung Software Academy Foy Youth) 10th (2023.07~)
+
 🏅2022 동계 한국방송미디어공학회 대학생 논문/캡스톤디자인 경진대회 최우수상 (2022.11.19)
   
   
 🏅2022 전자IT미디어공학과 캡스톤디자인 경진대회 우수상 (2023.01.16)
 
 
-🏅2023년 7차 Softeer 정기 역량 진단(HSAT) Level3 취득(2023.08.11)
+🏅2023년 7차 현대 Softeer 정기 역량 진단(HSAT) Level3 취득(2023.08.11)
   
   </p>
 <h1 align="center"> Bedge </h1>

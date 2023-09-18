@@ -37,6 +37,13 @@
       <img src="https://img.shields.io/badge/React-FFFFFF?style=round&logo=React&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/Docker-FFFFFF?style=round&logo=Docker&logoColor=#6DB33F"/></td>
       <td><a href="https://github.com/dev1week/Receipt-Service">Code</a></td>
   </tr>
+      </tr>
+    <tr>
+    <td>SSoc 핸드폰으로 편리하게 소속 동아리/학생회 공금 사용 내역을 확인하고 교류할 수 있는 커뮤니티 서비스</td>
+    <td><a href="/api1111" target="_blank"><img src="https://img.shields.io/badge/ReactNative-FFFFFF?style=round&logo=React&logoColor=#6DB33F"/>
+      </td>
+      <td><a href="[https://github.com/dev1week/Receipt-Service](https://github.com/SSoc-Student-SOCiety/SSoc)">Code</a></td>
+  </tr>
 </table>
 
 <h2 align="left">Experience </h2>

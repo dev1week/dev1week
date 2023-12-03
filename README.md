@@ -29,7 +29,7 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>Finger Gesture와 Voice Recognition을 활용한 I o T 통합 제어 웹  플랫폼</td>
+    <td>Finger Gesture와 Voice Recognition을 활용한 IoT 통합 제어 웹  플랫폼</td>
     <td><a href="" target="_blank11"><img src="https://img.shields.io/badge/Flask-FFFFFF?style=round&logo=Flask&logoColor=#6DB33F"/></td>
     <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11174612">Published Paper </a></td>
   </tr>
@@ -40,11 +40,17 @@
       <td><a href="https://github.com/dev1week/Receipt-Service">Code</a></td>
   </tr>
       </tr>
-    <tr>
+  <tr>
     <td>SSoc (핸드폰으로 편리하게 소속 동아리/학생회 공금 사용 내역을 확인하고 교류할 수 있는 커뮤니티 서비스)</td>
     <td><a href="/api1111" target="_blank"><img src="https://img.shields.io/badge/ReactNative-FFFFFF?style=round&logo=React&logoColor=#6DB33F"/>
       </td>
       <td><a href="https://github.com/SSoc-Student-SOCiety/SSoc">Code</a></td>
+  </tr>
+   <tr>
+    <td>댕놀자 (반려견과 함께 떠나는 여행 계획 생성 서비스)</td>
+    <td><a href="/api1111" target="_blank"><img src="https://img.shields.io/badge/Spring-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/>
+      </td>
+      <td><a href="https://github.com/D-Nolja/Server">Code</a></td>
   </tr>
 </table>
 
@@ -73,6 +79,9 @@
 
 
 🏅2023년 7차 현대 Softeer 정기 역량 진단(HSAT) Level3 취득(2023.08.11)
+
+
+🏅2023년 삼성 청년 SW 아카데미 1학기 프로젝트 최우수상 (2023.11.24)
   
   </p>
 <h1 align="center"> Bedge </h1>

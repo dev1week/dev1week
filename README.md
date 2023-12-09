@@ -1,8 +1,6 @@
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=F6BB43&height=300&section=header&text=%20&fontSize=40" align="center" >
-</p>
+
 <h2 align="left">Tech Stack </h2>
   <br>
 <table align="center">

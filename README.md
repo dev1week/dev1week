@@ -82,8 +82,7 @@
 🏅2023년 삼성 청년 SW 아카데미 1학기 프로젝트 최우수상 (2023.11.24)
   
   </p>
-<h1 align="center"> Bedge </h1>
-  <br> 
+
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rondo2860" align="center" >
 </p>

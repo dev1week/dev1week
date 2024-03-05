@@ -50,6 +50,13 @@
       </td>
       <td><a href="https://github.com/D-Nolja/Server">Code</a></td>
   </tr>
+   <tr>
+    <td>Code Odyssey (다함께 준비하는 코딩 테스트 스터디 서비스)</td>
+    <td><a href="/api1111" target="_blank"><img src="https://img.shields.io/badge/SpringCloud-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/> <img src="https://img.shields.io/badge/SpringCloud-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/>
+      </td>
+      <td><a href="https://github.com/D-Nolja/Server">Code</a></td>
+  </tr>
+
 </table>
 
 <h2 align="left">Experience </h2>

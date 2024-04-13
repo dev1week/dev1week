@@ -56,7 +56,12 @@
       </td>
       <td><a href="https://github.com/dev1week/Code-Odyssey">Code</a></td>
   </tr>
-
+   <tr>
+    <td>Conting (did를 활용한 가족예매, nft를 활용한 암표방지 티케팅 플랫폼)</td>
+    <td><a href="/api1111" target="_blank"><img src="https://img.shields.io/badge/SpringCloud-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/> <img src="https://img.shields.io/badge/Jenkins-FFFFFF?style=round&logo=Jenkins&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/Docker-FFFFFF?style=round&logo=Docker&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/Kafka-FFFFFF?style=round&logo=&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/Redis-FFFFFF?style=round&logo=Redis&logoColor=#6DB33F"/>
+      </td>
+      <td><a href="https://github.com/dev1week/">Code</a></td>
+  </tr>
 </table>
 
 <h2 align="left">Experience </h2>

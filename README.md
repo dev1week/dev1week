@@ -25,42 +25,57 @@
     <th>Title</th>
     <th>Skill</th>
     <th>Link</th>
+    <th>Partnership</th>
   </tr>
   <tr>
     <td>Finger Gesture와 Voice Recognition을 활용한 IoT 통합 제어 웹  플랫폼</td>
     <td><a href="" target="_blank11"><img src="https://img.shields.io/badge/SpringBatch-FFFFFF?style=round&logo=SpringBatch&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/FastApi-FFFFFF?style=round&logo=FastApi&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/Pytorch-FFFFFF?style=round&logo=Pytorch&logoColor=#6DB33F"/></td>
     <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11174612">Published Paper </a></td>
+      <td>한국방송미디어공학회</td>
   </tr>
     <tr>
     <td>(영수증 이미지 자동인식 가계부 앱)</td>
     <td><a href="/api1111" target="_blank">
       <img src="https://img.shields.io/badge/React-FFFFFF?style=round&logo=React&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/Docker-FFFFFF?style=round&logo=Docker&logoColor=#6DB33F"/></td>
       <td><a href="https://github.com/dev1week/Receipt-Service">Code</a></td>
+      <td>-</td>
+      
   </tr>
-      </tr>
   <tr>
-    <td>SSoc (핸드폰으로 편리하게 소속 동아리/학생회 공금 사용 내역을 확인하고 교류할 수 있는 커뮤니티 서비스 / 신한은행 해커톤)</td>
+    <td>SSoc (핸드폰으로 편리하게 소속 동아리/학생회 공금 사용 내역을 확인하고 교류할 수 있는 커뮤니티 서비스)</td>
     <td><a href="/api1111" target="_blank"><img src="https://img.shields.io/badge/ReactNative-FFFFFF?style=round&logo=React&logoColor=#6DB33F"/>
       </td>
       <td><a href="https://github.com/SSoc-Student-SOCiety/SSoc">Code</a></td>
+      <td>신한은행 해커톤</td>
   </tr>
    <tr>
     <td>댕놀자 (반려견과 함께 떠나는 여행 계획 생성 서비스)</td>
     <td><a href="/api1111" target="_blank"><img src="https://img.shields.io/badge/Spring-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/>
       </td>
       <td><a href="https://github.com/D-Nolja/Server">Code</a></td>
+      <td>-</td>
   </tr>
    <tr>
     <td>Code Odyssey (다함께 준비하는 코딩 테스트 스터디 서비스)</td>
     <td><a href="/api1111" target="_blank"><img src="https://img.shields.io/badge/SpringCloud-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/> <img src="https://img.shields.io/badge/Jenkins-FFFFFF?style=round&logo=Jenkins&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/Docker-FFFFFF?style=round&logo=Docker&logoColor=#6DB33F"/>
       </td>
       <td><a href="https://github.com/dev1week/Code-Odyssey">Code</a></td>
+      <td>-</td>
   </tr>
    <tr>
     <td>Conting (did를 활용한 가족예매, nft를 활용한 암표방지 및 포토카드 거래 티케팅 플랫폼)</td>
     <td><a href="/api1111" target="_blank"><img src="https://img.shields.io/badge/SpringCloud-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/> <img src="https://img.shields.io/badge/Webflux-FFFFFF?style=round&logo=Webflux&logoColor=#6DB33F"/> <img src="https://img.shields.io/badge/Jenkins-FFFFFF?style=round&logo=Jenkins&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/Docker-FFFFFF?style=round&logo=Docker&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/><img src="https://img.shields.io/badge/RedisCluster-FFFFFF?style=round&logo=Redis&logoColor=#6DB33F"/>
       </td>
       <td><a href="https://github.com/dev1week/">Code</a></td>
+            <td>-</td>
+
+  </tr>
+      <tr>
+    <td>Cloudy (나에게 맞는 AWS 강의, 서비스를 추천하는 플랫폼)</td>
+    <td>-
+      </td>
+      <td><a href="https://github.com/">~</a></td>
+      <td>AWS 기업연계</td>
   </tr>
 </table>
 

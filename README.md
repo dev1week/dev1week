@@ -83,7 +83,6 @@
 <p align="center">
 
 
-🎓 Major in Electronic IT Media, Seoul National Universiry Of Sicence and Technology (2017.02 ~ 2023.02)
 
 
 

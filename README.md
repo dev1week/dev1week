@@ -1,21 +1,7 @@
 
 
 
-<h2 align="left">Tech Stack </h2>
-  <br>
-<table align="center">
-  <tr>
-    <th>BE</th>
-    <th>App(X Platform)</th>
-    <th>Deploy</th>
-  </tr>
-  <tr>
-    <td><a href="" target="_bl1a0nk"><img src="https://img.shields.io/badge/Spring-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/></a></td>
-    <td><a href="" target="_bl1a0nk"><img src="https://img.shields.io/badge/ReactNative-FFFFFF?style=round&logo=React&logoColor=#6DB33F"/></a></td>
-        <td><a href="" target="_bl1a0nk"><img src="https://img.shields.io/badge/Jenkins-FFFFFF?style=round&logo=Jenkins&logoColor=#6DB33F"/></a>
-    <a href="" target="_bl1a0nk"><img src="https://img.shields.io/badge/Docker-FFFFFF?style=round&logo=Docker&logoColor=#6DB33F"/></a></td>
-  </tr>
-</table>
+
 
 
 <h2 align="left">PRJ </h2>

@@ -58,9 +58,9 @@
   </tr>
       <tr>
     <td>Cloudy (나에게 맞는 AWS 강의, 서비스를 추천하는 플랫폼)</td>
-    <td>-
+    <td><img src="https://img.shields.io/badge/SpringCloud-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/>
       </td>
-      <td><a href="https://github.com/aws-cloudy/cloudy">~</a></td>
+      <td><a href="https://github.com/aws-cloudy/cloudy">Code</a></td>
       <td>AWS 기업연계</td>
   </tr>
 </table>

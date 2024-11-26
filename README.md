@@ -52,7 +52,7 @@
     <td>Conting (did를 활용한 가족예매, nft를 활용한 암표방지 및 포토카드 거래 티케팅 플랫폼)</td>
     <td><a href="/api1111" target="_blank"><img src="https://img.shields.io/badge/SpringCloud-FFFFFF?style=round&logo=Spring&logoColor=#6DB33F"/> <img src="https://img.shields.io/badge/Webflux-FFFFFF?style=round&logo=Webflux&logoColor=#6DB33F"/> <img src="https://img.shields.io/badge/Jenkins-FFFFFF?style=round&logo=Jenkins&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/Docker-FFFFFF?style=round&logo=Docker&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/><img src="https://img.shields.io/badge/RedisCluster-FFFFFF?style=round&logo=Redis&logoColor=#6DB33F"/>
       </td>
-      <td><a href="https://github.com/dev1week/">Code</a></td>
+      <td><a href="https://github.com/con-ting/conting">Code</a></td>
             <td>-</td>
 
   </tr>
@@ -60,7 +60,7 @@
     <td>Cloudy (나에게 맞는 AWS 강의, 서비스를 추천하는 플랫폼)</td>
     <td>-
       </td>
-      <td><a href="https://github.com/">~</a></td>
+      <td><a href="https://github.com/aws-cloudy/cloudy">~</a></td>
       <td>AWS 기업연계</td>
   </tr>
 </table>

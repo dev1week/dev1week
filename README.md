@@ -84,7 +84,7 @@
 
 💻 SSAFY Project Coach (Samsung Software Academy Foy Youth Coach) 11th (2024.07~24.11)
 
-💻 SW Engineer (Samsung Electronics DX/VD) (2025.02~)
+💻 SW Engineer (Samsung Electronics Developer at Service S/W Lab / VD) (2025.02~)
 
 🏅2022 동계 한국방송미디어공학회 대학생 논문/캡스톤디자인 경진대회 최우수상 (2022.11.19)
   

@@ -14,7 +14,7 @@
     <th>Partnership</th>
   </tr>
   <tr>
-    <td>Finger Gesture와 Voice Recognition을 활용한 IoT 통합 제어 웹  플랫폼</td>
+    <td>Finger Gesture와 Voice Recognition을 활용한 IoT 통합 제어 웹 플랫폼</td>
     <td><a href="" target="_blank11"><img src="https://img.shields.io/badge/SpringBatch-FFFFFF?style=round&logo=SpringBatch&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/FastApi-FFFFFF?style=round&logo=FastApi&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/Pytorch-FFFFFF?style=round&logo=Pytorch&logoColor=#6DB33F"/></td>
     <td><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11174612">Published Paper </a></td>
       <td>한국방송미디어공학회</td>
